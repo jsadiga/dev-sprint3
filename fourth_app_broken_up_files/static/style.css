@@ -1,12 +1,18 @@
-
+html{
+	background: url("/static/scenic_walk_971.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
 
 #nav {
     position: absolute;
-    top: 20px;
+    top: 5px;
     left: 5px;
-    width: 10em;
+    width: 30em;
 }
 
 #content {
-    margin-left: 10em;
+    margin-left: 4em;
 }
